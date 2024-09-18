@@ -1,6 +1,5 @@
 # Facial Emotion Recognition using CNN :
-[![LICENCE.md](https://img.shields.io/github/license/PrudhviGNV/py-automl)](https://github.com/PrudhviGNV/py-automl/blob/master/LICENCE.md)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/PrudhviGNV)[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PrudhviGNV/open-source-badges/)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/PrudhviGNV/badges)<br>
+
 This is completely a deep learning project entirely based on neural networks and I think Facial emotion recognition(FER) project is one of the classical projects in deep learning.<br/>
 <br/>We all know facial emotions play a vital role in our day-to-day life. so, we need a system which is capable of recognising our  facial emotions and able to act accordingly.
 <br/>
@@ -15,11 +14,7 @@ Here I trained the convolution neural network with kaggle facial emotion dataset
 <br/>
 <br/>
 
--------
-### I wrote a medium blog on this project. you can find [here](https://medium.com/@prudhvi.gnv/ultimate-guide-for-facial-emotion-recognition-using-a-cnn-f9239fdc63ad?source=---------2------------------) for quick understanding and insights.
 
------
-_Feel free to download, clone , fork the project._  
 
 ## Installation of python libraries:
   * keras with tensorflow as backend
@@ -56,38 +51,6 @@ This notebook file is a complete wrapout  of practical exposure, understanding a
   * model.json --> saved architecture of the neural network.
   * haarcascade classifiers --> higly pretrained classifiers to detect faces.
 <br/>
-<br/>
-The following is the results of the images. I also add the number of persons in the image and the relevant emojis to their emotions of the persons to create sense of feel.
-<br/><br/>
 
 
 
-
-
-![multistar_emotion](https://user-images.githubusercontent.com/39909903/86573388-33180d00-bf29-11ea-844a-09c8cea77467.PNG)
-![mb_emotion](https://user-images.githubusercontent.com/39909903/86573436-41febf80-bf29-11ea-9f47-76a62f6a6a8e.PNG)
-![khans_emotions](https://user-images.githubusercontent.com/39909903/86573368-2c899580-bf29-11ea-8588-3600004d7b77.PNG)
-
-  <br/>
-  <br/>
-  Thanks, Hope you enjoy the project! :)
-  <br/>
-  <br/>
-  <br/>
-  
-
-  ## Contributing:
-  all pull requests are welcome. I felt glad if you give me any suggestions. (^_^)
- [![GitHub issues](https://img.shields.io/github/issues/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/issues)
-  <br/>
-  <br/>
-  ## Licence & copyright: 
-  © Prudhvi GNV, _Computer Science<br/>
-  Licensed under the [MIT License](LICENSE)_
-  [![GitHub license](https://img.shields.io/github/license/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/blob/master/LICENSE)
-  
-  --------
-## Contact:
-<a href="https://www.linkedin.com/in/prudhvignv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/linkedin.png" width="40" /> </a>  <a href="https://github.com/PrudhviGNV"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/github-logo.png" width="40" /> </a>  <a href="https://www.facebook.com/prudhvi.gnv/"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/facebook.png" width="40" /> </a>  <a href="mailto:prudhvi.gnv@gmail.com"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/google-plus.png" width="40" /> </a>  <a
- href="https://www.instagram.com/prudhvi_gnv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/instagram.png" width="40" /> </a><a href="https://prudhvignv.github.io"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/home.png" width="40" /></a>
-  
